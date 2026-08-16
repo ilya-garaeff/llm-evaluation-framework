@@ -162,4 +162,4 @@ Applied during dataset curation for fine-tuning and RLHF pipelines:
 
 ---
 
-*Maintained by [Ilya Garaeff](https://ilyagaraeff.com) — AI/ML Operations Specialist*
+*Maintained by [Ilya Garaeff](https://ilyagaraeff.com) 
